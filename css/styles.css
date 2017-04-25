@@ -5,7 +5,7 @@
 	width: 800px;
 	height: auto;
 	background-color: black;
-		
+	float: left;	
 	
 	
 }
@@ -13,8 +13,8 @@
 
 .if img {
 	width: 400px;
-	
-	
+	float: left;
+	margin-top: 50px;
 	
 }
 p {
@@ -22,12 +22,19 @@ p {
 
 }
 
-.first {
-	float: right;
 
+.first {
+	margin-top: 275px;
+	
+	
 	
 }
 
+
 .second {
-	float: right;
+	margin-left: 430px;
+	
+	
+	
 }
+
