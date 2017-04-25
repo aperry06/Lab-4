@@ -3,9 +3,9 @@
 
 .if {
 	width: 800px;
-	height: 560px;
+	height: 515px;
 	background-color: black;
-	
+	padding-top: 20px;
 	
 	
 }
@@ -32,14 +32,13 @@ p {
 
 
 .second {
-	margin-left: 430px;
+	margin-left: 460px;
 
 	
 	
 }
 
 h1 {
-	background-color: white;
 	color: red;
 	font-size: 30px;
 }
@@ -50,6 +49,8 @@ h1 {
 	width: 200px;
 	height: auto;
 	float: right;
+	margin-top: -70px;
+
 }
 
 .logo{
@@ -57,3 +58,21 @@ h1 {
 	
 }
 
+h2 {
+	color: darkgray;
+	padding-left: 100px;
+	margin-top: -40px;
+}
+
+h3 {
+	font-size: 15px;
+	font-weight:100;
+}
+
+h5 {
+	font-weight:100;
+	margin-top: -20px;
+	font-size: 15px;
+	
+	
+}
